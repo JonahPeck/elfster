@@ -13,11 +13,11 @@ import (
 )
 
 func main() {
-	i := 1
-	members := [7]string{"Jonah", "Maile", "Theo", "MB", "Mark", "Miah", "Abby"}
+	members := [7]string{"Jonah - 0 ", "Maile - 1 ", "Theo - 2 ", "MB - 3 ", "Mark - 4 ", "Miah - 5 ", "Abby - 6 "}
+	i := 0
 	for i < len(members) {
 		fmt.Println(rand.Intn(len(members)))
-		fmt.Println(members[i])
+		fmt.Print(members[i])
 		i++
 	}
 }
