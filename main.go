@@ -21,3 +21,5 @@ func main() {
 		i++
 	}
 }
+
+//need to think of business ideas
