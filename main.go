@@ -23,4 +23,4 @@ func main() {
 }
 
 //need to think of business ideas
-//need to trust in the Lord
+//I met obama
