@@ -24,3 +24,4 @@ func main() {
 
 //need to think of business ideas
 //I met obama
+//I need to learn golang
