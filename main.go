@@ -1,25 +1,11 @@
-//I want to create a simple elfster dupe for my families christmas swap
-
-// each person can add books to the overall list
-//brainstorm
-//need to work on
-//randomly assigns a person someone else for the gift exchange
+//comment
 
 package main
 
-import (
-	"fmt"
-	"math/rand"
-)
+import "fmt"
 
 func main() {
-	members := [7]string{"Jonah - 0 ", "Maile - 1 ", "Theo - 2 ", "MB - 3 ", "Mark - 4 ", "Miah - 5 ", "Abby - 6 "}
-	i := 0
-	for i < len(members) {
-		fmt.Println(rand.Intn(len(members)))
-		fmt.Print(members[i])
-		i++
-	}
+	const name = "Jonah"
+	const age = 25
+	fmt.Printf("%v is %v years old \t and the type is %T and %T", name, age, name, age)
 }
-
-//gotta get after it
