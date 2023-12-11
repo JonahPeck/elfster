@@ -9,4 +9,4 @@ func main() {
 	fmt.Println(``)
 }
 
-//you like dog
+//give yourself an excuse to succeed
