@@ -10,3 +10,4 @@ func main() {
 }
 
 //give yourself an excuse to succeed
+//put in the work
