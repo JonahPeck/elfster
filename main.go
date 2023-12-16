@@ -19,8 +19,13 @@ func main() {
 	var m float32 = 43.742
 	fmt.Printf("%v of type %T \n", m, m)
 
+	z = float64(m)
+	//conversion
+	fmt.Printf("%v of type %T \n", z, z)
+
 	//zero value is usually used when var is declared
 	//use shortcut to assign variables typically - short declaration operator
 
 	//numeral systems -hexadecimal is actually super cool
+	//I need to get to wororokrokr
 }
