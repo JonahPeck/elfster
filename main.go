@@ -28,5 +28,5 @@ func main() {
 
 	//numeral systems -hexadecimal is actually super cool
 	//I need to get to wororokrokr
-	//today we are off to colorado and a new change is coming. I can feel it
+	//got to do some things
 }
