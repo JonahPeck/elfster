@@ -29,4 +29,5 @@ func main() {
 	//numeral systems -hexadecimal is actually super cool
 	//i do not feel good enough to get a software job
 	//I have big plans and the Lord will provide
+	//all in good timing
 }
