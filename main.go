@@ -30,6 +30,5 @@ func main() {
 	//i do not feel good enough to get a software job
 	//I have big plans and the Lord will provide
 	//all in good timing we will trust the lord's plan
-	//ajskjsksdm
-	//jnini
+	//jhu
 }
