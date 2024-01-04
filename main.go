@@ -28,5 +28,7 @@ func main() {
 
 	//numeral systems -hexadecimal is actually super cool
 	//jonah we got this dude
-	//sjcndscjndic
+	//
+	//I have a feeling this is gonna be good
+
 }
