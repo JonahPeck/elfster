@@ -28,6 +28,6 @@ func main() {
 
 	//numeral systems -hexadecimal is actually super cool
 	//jonah we got this dude
-	//lord I trust you
+	//lord I trust you and lord I will obey you
 
 }
