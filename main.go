@@ -27,9 +27,7 @@ func main() {
 	//use shortcut to assign variables typically - short declaration operator
 
 	//numeral systems -hexadecimal is actually super cool
-	//jonah we got this dude
-	//lord I trust you and lord I will obey you
-	//let's do this
-	//let's ride
+
+	//how to start this
 
 }
